@@ -19,7 +19,7 @@ Sou um desenvolvedor com experiência em diversas tecnologias web e de programa�
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-1. **[Projeto Pizzaria](https://github.com/Eduardo-Decarli/UpperSolution---Portif-lio)**
+1. **[Portifólio Upper](https://github.com/Eduardo-Decarli/UpperSolution---Portif-lio)**
    - Descrição: UEsse foi o desenvolvimento do site da empresa UpperResolution.
    - Tecnologias: HTML, CSS, Bootstrap, JavaScript, PHP.
 
@@ -41,12 +41,8 @@ Abaixo estão algumas das tecnologias nas quais eu sei lidar.
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-                        
 </div><br>
 
 ## Contatos
