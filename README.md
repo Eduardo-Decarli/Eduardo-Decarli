@@ -1,6 +1,6 @@
 # Meu Portfólio de Programação
 
-Bem-vindo ao meu repositório de portfólio! Aqui você encontrará diversos projetos que desenvolvi utilizando minhas habilidades em HTML, CSS, Java, JavaScript, Bootstrap e Git.
+Bem-vindo ao meu perfil do GitHub! Aqui você encontrará os projetos que desenvolvi tanto para caracter profissional quando pessoal.
 
 ## Índice
 
@@ -12,29 +12,27 @@ Bem-vindo ao meu repositório de portfólio! Aqui você encontrará diversos pro
 
 ## Sobre Mim
 
-Sou um desenvolvedor com experiência em diversas tecnologias web e de programação. Adoro criar interfaces de usuário dinâmicas e funcionais e resolver problemas complexos com soluções elegantes e eficientes.
+Sou um desenvolvedor com experiência em diversas tecnologias web e de programação. Programo desde 2022 e busco reforçar meus conhecimentos tanto no front-end quanto no back-end, alem das minhas competencias na programação, busco desafiar minhas habilidades e caracteristicas diversas e dessa forma melhorar com os aprendizados.
 
 ## Projetos
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-1. **[Projeto Pizzaria](link-do-repositorio)**
-   - Descrição: Um site de pizzaria que permite aos usuários visualizar o menu, fazer pedidos online e muito mais.
-   - Tecnologias: HTML, CSS, JavaScript, Bootstrap
+1. **[Projeto Pizzaria](https://github.com/Eduardo-Decarli/UpperSolution---Portif-lio)**
+   - Descrição: UEsse foi o desenvolvimento do site da empresa UpperResolution.
+   - Tecnologias: HTML, CSS, Bootstrap, JavaScript, PHP.
 
-2. **[Aplicação Java](link-do-repositorio)**
-   - Descrição: Um aplicativo desenvolvido em Java para gerenciar tarefas diárias.
-   - Tecnologias: Java, Swing
+2. **[Jogo de Xadrez](https://github.com/Eduardo-Decarli/Projeto-Xadrez-Java)**
+   - Descrição: Um programa na linguagem java para simular uma partida de xadrez, contendo uma lógica bem definida para as regras, peças e tabuleiro.
+   - Tecnologias: Java
 
-3. **[Site Portfólio Pessoal](link-do-repositorio)**
-   - Descrição: Meu site de portfólio pessoal, onde apresento meus trabalhos e experiências.
-   - Tecnologias: HTML, CSS, JavaScript, Bootstrap
+3. **[Pongo](https://github.com/Eduardo-Decarli/Pong)**
+   - Descrição: Esse projeto é o desenvolvimento e aprendizado na linguagem JavaScript, desenvolvendo o classico jogo Pong.
+   - Tecnologias: HTML, CSS, JavaScript
 
-## Como Usar
+## Tecnologias
 
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+1. Abaixo estão algumas das tecnologias nas quais eu sei lidar. 
 
         
           
