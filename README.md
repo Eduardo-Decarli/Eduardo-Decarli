@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará os projetos que desenv
 - [Sobre Mim](#sobre-mim)
 - [Projetos](#projetos)
 - [Como Usar](#como-usar)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Tecnologias Utilizadas](#tecnologias)
 - [Contato](#contato)
 
 ## Sobre Mim
@@ -32,8 +32,21 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ## Tecnologias
 
-1. Abaixo estão algumas das tecnologias nas quais eu sei lidar. 
+Abaixo estão algumas das tecnologias nas quais eu sei lidar. 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+
+##Contatos
+
+- [Linkin](www.linkedin.com/in/eduardo-decarli)
+- Gmail: decarliedu@gmail.com
+- Telefone: [(48) 99634-2153](https://wa.me/48996342153)
         
           
           
