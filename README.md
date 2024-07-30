@@ -4,10 +4,24 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará os projetos que desenv
 
 ## Índice
 
+- [Tecnologias Utilizadas](#tecnologias)
 - [Sobre Mim](#sobre-mim)
 - [Projetos](#projetos)
-- [Tecnologias Utilizadas](#tecnologias)
 - [Contatos](#Contatos)
+
+## Tecnologias
+
+Abaixo estão algumas das tecnologias nas quais eu sei lidar. 
+
+<div style="display: flex"><br>
+   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+</div><br>
 
 ## Sobre Mim
 
@@ -31,19 +45,7 @@ Aqui estão alguns dos meus projetos mais recentes:
    - Descrição: Esse projeto é o desenvolvimento e aprendizado na linguagem JavaScript, desenvolvendo o classico jogo Pong.
    - Tecnologias: HTML, CSS, JavaScript
 
-## Tecnologias
 
-Abaixo estão algumas das tecnologias nas quais eu sei lidar. 
-
-<div style="display: flex"><br>
-   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</div><br>
 
 ## Contatos
 
