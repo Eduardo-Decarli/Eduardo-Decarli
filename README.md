@@ -18,9 +18,11 @@ Abaixo estão algumas das tecnologias nas quais eu sei lidar.
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 </div><br>
 
 ## Sobre Mim
@@ -52,7 +54,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 - **Email**: [decarliedu@gmail.com](decarliedu@gmail.com)
 - **LinkedIn**: [linkedin.com/in/eduardo-decarli](www.linkedin.com/in/eduardo-decarli)
 - **GitHub**: [github.com/eduardo-decarli](https://github.com/eduardo-decarli)
-- **Whatszapp**: [(48) 99634-2153]((https://wa.me/48996342153))
+- **Whatszapp**: [(48) 99634-2153](https://wa.me/48996342153)
 
 Estou sempre aberto a novas colaborações e feedbacks!
           
