@@ -49,12 +49,12 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ## Contatos
 
-- [Linkedin](www.linkedin.com/in/eduardo-decarli)
-- Gmail: decarliedu@gmail.com
-- Telefone: [(48) 99634-2153](https://wa.me/48996342153)
-        
-          
-          
+- **Email**: [decarliedu@gmail.com](decarliedu@gmail.com)
+- **LinkedIn**: [linkedin.com/in/eduardo-decarli](www.linkedin.com/in/eduardo-decarli)
+- **GitHub**: [github.com/eduardo-decarli](https://github.com/eduardo-decarli)
+- **Whatszapp**: [(48) 99634-2153]((https://wa.me/48996342153))
+
+Estou sempre aberto a novas colaborações e feedbacks!
           
           
           
