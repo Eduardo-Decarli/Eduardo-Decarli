@@ -28,6 +28,8 @@ Abaixo estão algumas das tecnologias nas quais eu sei lidar.
    <img height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
    <img height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
    <img height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+   <img height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"/>
+
 </div><br>
 ## Sobre Mim
 
