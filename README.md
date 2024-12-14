@@ -24,8 +24,11 @@ Abaixo estão algumas das tecnologias nas quais eu sei lidar.
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
    <img height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+   <img height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+   <img height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+   <img height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
+   <img height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 </div><br>
-
 ## Sobre Mim
 
 Sou um desenvolvedor com experiência em diversas tecnologias web e de programação. Programo desde 2022 e busco reforçar meus conhecimentos tanto no front-end quanto no back-end, alem das minhas competencias na programação, busco desafiar minhas habilidades e caracteristicas diversas e dessa forma melhorar com os aprendizados.
