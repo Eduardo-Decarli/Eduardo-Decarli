@@ -2,6 +2,8 @@
 
 Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos que desenvolvi tanto para fins profissionais quanto pessoais.
 
+Com foco em ser um desenvolvedor Full-Stack, busco melhorar meus conhecimentos e práticas tanto em back-end quanto em front-end, sou certificado AWS como Cloud Pratitioner e tenho diversos projetos em meus repositórios, indo de jogos, arquivos de estudos à APIs profissionais.
+
 <br>
 
 
