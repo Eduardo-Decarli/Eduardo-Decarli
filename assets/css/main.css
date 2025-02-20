@@ -886,6 +886,13 @@ section,
 .certificate-card {
   transition: transform 0.3s;
   text-align: center;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.certificate-card img {
+  padding: 10px;
+  border-radius: 20px;
 }
 
 .certificate-card:hover {
