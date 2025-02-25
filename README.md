@@ -41,12 +41,6 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 <br>
 
 
-## 👨‍💻 Sobre Mim
-
-Sou um desenvolvedor apaixonado por tecnologia, com experiência em diversas stacks de desenvolvimento. Programo desde 2022 e busco constantemente aprimorar meus conhecimentos tanto no **front-end** quanto no **back-end**.  
-
-Estou sempre pronto para novos desafios, visando crescimento profissional e aprendizado contínuo.
-
 📊 **Linguagens Mais Usadas:**  
 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Decarli&layout=compact&langs_count=7&theme=dracula"/>
@@ -58,17 +52,17 @@ Estou sempre pronto para novos desafios, visando crescimento profissional e apre
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-### 🔹 [Portfólio Upper](https://github.com/Eduardo-Decarli/UpperSolution---Portif-lio)  
-📌 Desenvolvimento do site da empresa **UpperResolution**.  
+### 🔹 [E-commerce com Deploy AWS](https://github.com/Eduardo-Decarli/RESTful_API-delivery-manager)  
+📌 Desenvolvimento de microsserviços em SpringBoot com deploy na AWS.  
 
-**🛠 Tecnologias:** HTML, CSS, Bootstrap, JavaScript, PHP.  
+**🛠 Tecnologias:** Java 21, SpringBoot, Postgres, Docker, DockerCompose, DockerHub, AWS EC2, .  
 
 ---
 
-### 🔹 [Jogo de Xadrez](https://github.com/Eduardo-Decarli/Projeto-Xadrez-Java)  
-📌 Um jogo de xadrez completo em Java, com lógica implementada para as regras das peças e tabuleiro.  
+### 🔹 [Gestão de Universidade](https://github.com/Eduardo-Decarli/University-Manager)  
+📌 Sistema de gerenciamento de universidade com sistema monolítico e contando com mais de 56 rotas de acesso.
 
-**🛠 Tecnologias:** Java  
+**🛠 Tecnologias:** Java 21, SprigBoot, JWT, MySQL, Postman, Docker, Trello, Scrum  
 
 ---
 
