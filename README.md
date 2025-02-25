@@ -71,6 +71,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 **🛠 Tecnologias:** HTML, CSS, JavaScript  
 
+
 <br>
 
 
@@ -84,4 +85,4 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ---
 
-Estou sempre aberto a novas colaborações e feedbacks! 🚀
+Estou sempre aberto há novas colaborações e feedbacks! 🚀
