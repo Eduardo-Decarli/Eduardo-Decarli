@@ -869,9 +869,9 @@ section,
 
 
 /*--------------------------------------------------------------
-# Team Section
+# Certificates Section
 --------------------------------------------------------------*/
-.team {
+.certificates {
   background-color: var(--surface-color);
   color: black;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
@@ -900,45 +900,45 @@ section,
 }
 
 @media (max-width: 468px) {
-  .team .team-member {
+  .certificates .team-member {
     flex-direction: column;
     justify-content: center !important;
     align-items: center !important;
   }
 }
 
-.team .team-member .pic {
+.certificates .team-member .pic {
   overflow: hidden;
   width: 400px;
   flex-shrink: 0;
 }
 
-.team .team-member .pic img {
+.certificates .team-member .pic img {
   transition: ease-in-out 0.3s;
 }
 
-.team .team-member:hover {
+.certificates .team-member:hover {
   transform: translateY(-10px);
 }
 
-.team .team-member .member-info {
+.certificates .team-member .member-info {
   padding-left: 30px;
 }
 
 @media (max-width: 468px) {
-  .team .team-member .member-info {
+  .certificates .team-member .member-info {
     padding: 30px 0 0 0;
     text-align: center;
   }
 }
 
-.team .team-member h4 {
+.certificates .team-member h4 {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
 }
 
-.team .team-member span {
+.certificates .team-member span {
   display: block;
   font-size: 15px;
   padding-bottom: 10px;
@@ -946,7 +946,7 @@ section,
   font-weight: 500;
 }
 
-.team .team-member span::after {
+.certificates .team-member span::after {
   content: "";
   position: absolute;
   display: block;
@@ -958,17 +958,17 @@ section,
 }
 
 @media (max-width: 468px) {
-  .team .team-member span::after {
+  .certificates .team-member span::after {
     left: calc(50% - 25px);
   }
 }
 
-.team .team-member p {
+.certificates .team-member p {
   margin: 10px 0 0 0;
   font-size: 14px;
 }
 
-.team .team-member .social {
+.certificates .team-member .social {
   margin-top: 12px;
   display: flex;
   align-items: center;
@@ -977,12 +977,12 @@ section,
 }
 
 @media (max-width: 468px) {
-  .team .team-member .social {
+  .certificates .team-member .social {
     justify-content: center;
   }
 }
 
-.team .team-member .social a {
+.certificates .team-member .social a {
   background: color-mix(in srgb, var(--default-color), transparent 94%);
   transition: ease-in-out 0.3s;
   display: flex;
@@ -994,9 +994,10 @@ section,
 }
 
 /*--------------------------------------------------------------
-# Services Section
+# tecnologies Section
 --------------------------------------------------------------*/
-.services .service-item {
+
+.tecnologies .tecnologies-item {
   background-color: var(--surface-color);
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
   text-align: center;
@@ -1008,7 +1009,7 @@ section,
   z-index: 1;
 }
 
-.services .service-item:before {
+.tecnologies .tecnologies-item:before {
   content: "";
   position: absolute;
   background: var(--accent-color);
@@ -1017,41 +1018,41 @@ section,
   z-index: -1;
 }
 
-.services .service-item .icon {
+.tecnologies .tecnologies-item .icon {
   margin-bottom: 10px;
 }
 
-.services .service-item .icon i {
+.tecnologies .tecnologies-item .icon i {
   color: var(--accent-color);
   font-size: 36px;
   transition: ease-in-out 0.3s;
 }
 
-.services .service-item h4 {
+.tecnologies .tecnologies-item h4 {
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 20px;
 }
 
-.services .service-item h4 a {
+.tecnologies .tecnologies-item h4 a {
   color: var(--heading-color);
   transition: ease-in-out 0.3s;
 }
 
-.services .service-item p {
+.tecnologies .tecnologies-item p {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
   transition: ease-in-out 0.3s;
 }
 
-.services .service-item:hover h4 a,
-.services .service-item:hover .icon i,
-.services .service-item:hover p {
+.tecnologies .tecnologies-item:hover h4 a,
+.tecnologies .tecnologies-item:hover .icon i,
+.tecnologies .tecnologies-item:hover p {
   color: var(--contrast-color);
 }
 
-.services .service-item:hover:before {
+.tecnologies .tecnologies-item:hover:before {
   background: var(--accent-color);
   inset: 0;
   border-radius: 0px;
@@ -1155,19 +1156,19 @@ section,
 }
 
 /*--------------------------------------------------------------
-# Team Section
+# Certificates Section
 --------------------------------------------------------------*/
-.team {
+.certificates {
   --default-color: #ffffff;
 }
 
-.team .member {
+.certificates .member {
   text-align: center;
   position: relative;
   height: 100%;
 }
 
-.team .member .member-info {
+.certificates .member .member-info {
   opacity: 0;
   display: flex;
   justify-content: center;
@@ -1177,49 +1178,49 @@ section,
   transition: 0.2s;
 }
 
-.team .member .member-info-content {
+.certificates .member .member-info-content {
   margin-top: -50px;
   transition: margin 0.2s;
 }
 
-.team .member:hover .member-info {
+.certificates .member:hover .member-info {
   background: rgba(0, 0, 0, 0.6);
   opacity: 1;
   transition: 0.4s;
 }
 
-.team .member:hover .member-info-content {
+.certificates .member:hover .member-info-content {
   margin-top: 0;
   transition: margin 0.4s;
 }
 
-.team .member h4 {
+.certificates .member h4 {
   color: var(--contrast-color);
   font-weight: 700;
   margin-bottom: 2px;
   font-size: 18px;
 }
 
-.team .member span {
+.certificates .member span {
   font-style: italic;
   display: block;
   font-size: 13px;
 }
 
-.team .member .social {
+.certificates .member .social {
   margin-top: 15px;
 }
 
-.team .member .social a {
+.certificates .member .social a {
   transition: 0.3s;
   color: var(--default-color);
 }
 
-.team .member .social a:hover {
+.certificates .member .social a:hover {
   color: var(--accent-color);
 }
 
-.team .member .social i {
+.certificates .member .social i {
   font-size: 18px;
   margin: 0 2px;
 }
