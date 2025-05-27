@@ -41,7 +41,6 @@
   --contrast-color: #ffffff;
 }
 
-/* Smooth scroll */
 :root {
   scroll-behavior: smooth;
 }
@@ -87,16 +86,11 @@ h6 {
   z-index: 997;
 }
 
-.header .logo {
+.header {
   line-height: 1;
 }
 
-.header .logo img {
-  max-height: 32px;
-  margin-right: 8px;
-}
-
-.header .logo h1 {
+.header h1 {
   font-size: 30px;
   margin: 0;
   font-weight: 700;
@@ -364,21 +358,11 @@ h6 {
   margin-bottom: 25px;
 }
 
-.footer .footer-about .logo img {
-  max-height: 40px;
-  margin-right: 6px;
-}
-
 .footer .footer-about .logo span {
   color: var(--heading-color);
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
-  font-family: var(--heading-font);
-}
-
-.footer .footer-about p {
-  font-size: 14px;
   font-family: var(--heading-font);
 }
 
@@ -456,11 +440,6 @@ h6 {
 
 .footer .copyright p {
   margin-bottom: 0;
-}
-
-.footer .credits {
-  margin-top: 6px;
-  font-size: 13px;
 }
 
 /*--------------------------------------------------------------
@@ -867,7 +846,6 @@ section,
   margin-left: 10px;
 }
 
-
 /*--------------------------------------------------------------
 # Certificates Section
 --------------------------------------------------------------*/
@@ -1123,7 +1101,7 @@ section,
 /*--------------------------------------------------------------
 # More Services Section
 --------------------------------------------------------------*/
-.more-services .card {
+.projects .card {
   background-color: var(--surface-color);
   color: var(--default-color);
   padding: 30px;
@@ -1134,24 +1112,24 @@ section,
   border: 0;
 }
 
-.more-services .card img {
+.projects .card img {
   padding: 0;
   transition: 0.5s;
   transform: scale(1.1);
 }
 
-.more-services .card h3 {
+.projects .card h3 {
   font-size: 24px;
   font-weight: 700;
   margin-top: 30px;
   margin-bottom: 18px;
 }
 
-.more-services .card:hover {
+.projects .card:hover {
   box-shadow: 0px 0 30px rgba(0, 0, 0, 0.1);
 }
 
-.more-services .card:hover img {
+.projects .card:hover img {
   transform: scale(1);
 }
 
