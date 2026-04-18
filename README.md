@@ -20,25 +20,29 @@ Com foco em ser um desenvolvedor Full-Stack, busco melhorar meus conhecimentos e
 
 Aqui estão algumas das tecnologias com as quais trabalho:
 
-   <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" /> &nbsp;&nbsp;&nbsp;
-   <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" /> &nbsp;&nbsp;&nbsp;
-   <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" /> &nbsp;&nbsp;&nbsp;
-   <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" /> &nbsp;&nbsp;&nbsp;
-   <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" /> &nbsp;&nbsp;&nbsp;
-   
-   <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" /> &nbsp;&nbsp;&nbsp;
-   <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" /> &nbsp;&nbsp;&nbsp;
-   <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" /> &nbsp;&nbsp;&nbsp;
-   <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" /> &nbsp;&nbsp;&nbsp;
-   <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" /> &nbsp;&nbsp;&nbsp;
-   
-   <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" /> &nbsp;&nbsp;&nbsp;
-   <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" /> &nbsp;&nbsp;&nbsp;
-   <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="RabbitMQ" /> &nbsp;&nbsp;&nbsp;
-   <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" /> &nbsp;&nbsp;&nbsp;
-   <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="UML" /> &nbsp;&nbsp;&nbsp;
+<p align="left">
+  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/>
+  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3"/>
+  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/>
+  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"/>
+</p>
 
-<br>
+<p align="left">
+  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"/>
+  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux"/>
+  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git"/>
+  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot"/>
+</p>
+
+<p align="left">
+  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"/>
+  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/>
+  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="RabbitMQ"/>
+  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/>
+  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="UML"/>
+</p>
 
 
 📊 **Linguagens Mais Usadas:**  
