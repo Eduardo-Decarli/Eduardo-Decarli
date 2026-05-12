@@ -61,6 +61,8 @@ Aqui estão alguns dos meus projetos com maior destaque:
 
 **🛠 Tecnologias Principais:** Java, Spring Boot, Docker, PostgreSQL, TypeScript e Angular  
 
+---
+
 ### 🔹 [E-commerce com Deploy AWS](https://github.com/Eduardo-Decarli/RESTful_API-delivery-manager)  
 📌 Desenvolvimento de microsserviços em SpringBoot com deploy na AWS.  
 
