@@ -54,7 +54,12 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ## 📂 Projetos
 
-Aqui estão alguns dos meus projetos mais recentes:
+Aqui estão alguns dos meus projetos com maior destaque:
+
+### 🔹 [SolRiso-System](https://github.com/Eduardo-Decarli/SolRiso-System)
+📌 Um sistema completo e moderno desenvolvido com **Spring Framework** no Backend e **Angular** no Frontend
+
+**🛠 Tecnologias Principais:** Java, Spring Boot, Docker, PostgreSQL, TypeScript e Angular  
 
 ### 🔹 [E-commerce com Deploy AWS](https://github.com/Eduardo-Decarli/RESTful_API-delivery-manager)  
 📌 Desenvolvimento de microsserviços em SpringBoot com deploy na AWS.  
@@ -68,17 +73,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 **🛠 Tecnologias:** Java 21, SprigBoot, JWT, MySQL, Postman, Docker, Trello, Scrum  
 
----
-
-### 🔹 [Pong](https://github.com/Eduardo-Decarli/Pong)  
-📌 Versão do clássico jogo **Pong**, desenvolvido como parte do aprendizado de JavaScript.  
-
-**🛠 Tecnologias:** HTML, CSS, JavaScript  
-
-
 <br>
-
-
 
 ## 📞 Contatos
 
